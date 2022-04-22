@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="titles">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Scala</item>
+        <item>Javascript</item>
+        <item>Typescript</item>
+        <item>Python</item>
+        <item>Swift</item>
+        <item>Php</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Evolution of C, general purpose, statically typed</item>
+        <item>multi-paradigm, general purpose, statically typed</item>
+        <item>multi-paradigm, general purpose, statically typed</item>
+        <item>Supported by Google as official language for Android</item>
+        <item>Used mostly in distributed computing with Spark</item>
+        <item>multi-paradigm, general purpose, dynamically typed</item>
+        <item>An extension of javascript used in web development</item>
+        <item>English-like syntax, used in computer science</item>
+        <item>Designed by Apple, mainly used for native iOS and macOS development</item>
+        <item>Scripting language used in dynamic web pages</item>
+    </string-array>
+</resources>
